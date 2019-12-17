@@ -287,32 +287,8 @@ dex_import {
 }
 
 dex_import {
-	name: "com.qti.snapdragon.sdk.display",
-	owner: "asus",
-	jars: ["proprietary/framework/com.qti.snapdragon.sdk.display.jar"],
-}
-
-dex_import {
 	name: "qcrilhook",
 	owner: "asus",
 	jars: ["proprietary/framework/qcrilhook.jar"],
-}
-
-dex_import {
-	name: "vendor.qti.hardware.alarm-V1.0-java",
-	owner: "asus",
-	jars: ["proprietary/framework/vendor.qti.hardware.alarm-V1.0-java.jar"],
-}
-
-dex_import {
-	name: "vendor.qti.hardware.factory-V1.0-java",
-	owner: "asus",
-	jars: ["proprietary/framework/vendor.qti.hardware.factory-V1.0-java.jar"],
-}
-
-dex_import {
-	name: "vendor.qti.hardware.sensorscalibrate-V1.0-java",
-	owner: "asus",
-	jars: ["proprietary/framework/vendor.qti.hardware.sensorscalibrate-V1.0-java.jar"],
 }
 
