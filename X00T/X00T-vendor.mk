@@ -344,7 +344,6 @@ PRODUCT_COPY_FILES += \
     vendor/asus/X00T/proprietary/vendor/lib/libOmxG711Dec.so:$(TARGET_COPY_OUT_VENDOR)/lib/libOmxG711Dec.so \
     vendor/asus/X00T/proprietary/vendor/lib/libOmxQcelp13Dec.so:$(TARGET_COPY_OUT_VENDOR)/lib/libOmxQcelp13Dec.so \
     vendor/asus/X00T/proprietary/vendor/lib/libOmxVideoDSMode.so:$(TARGET_COPY_OUT_VENDOR)/lib/libOmxVideoDSMode.so \
-    vendor/asus/X00T/proprietary/vendor/lib/libOmxVpp.so:$(TARGET_COPY_OUT_VENDOR)/lib/libOmxVpp.so \
     vendor/asus/X00T/proprietary/vendor/lib/libOmxWmaDec.so:$(TARGET_COPY_OUT_VENDOR)/lib/libOmxWmaDec.so \
     vendor/asus/X00T/proprietary/vendor/lib/libOpenCL.so:$(TARGET_COPY_OUT_VENDOR)/lib/libOpenCL.so \
     vendor/asus/X00T/proprietary/vendor/lib/libQSEEComAPI.so:$(TARGET_COPY_OUT_VENDOR)/lib/libQSEEComAPI.so \
@@ -948,10 +947,6 @@ PRODUCT_COPY_FILES += \
     vendor/asus/X00T/proprietary/vendor/lib/libmmosal_proprietary.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmosal_proprietary.so \
     vendor/asus/X00T/proprietary/vendor/lib/libmmqjpeg_codec.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmqjpeg_codec.so \
     vendor/asus/X00T/proprietary/vendor/lib/libmmqjpegdma.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmqjpegdma.so \
-    vendor/asus/X00T/proprietary/vendor/lib/libmmsw_detail_enhancement.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmsw_detail_enhancement.so \
-    vendor/asus/X00T/proprietary/vendor/lib/libmmsw_math.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmsw_math.so \
-    vendor/asus/X00T/proprietary/vendor/lib/libmmsw_opencl.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmsw_opencl.so \
-    vendor/asus/X00T/proprietary/vendor/lib/libmmsw_platform.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmsw_platform.so \
     vendor/asus/X00T/proprietary/vendor/lib/libmorpho_video_refiner.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmorpho_video_refiner.so \
     vendor/asus/X00T/proprietary/vendor/lib/libmpbase.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmpbase.so \
     vendor/asus/X00T/proprietary/vendor/lib/liboemcrypto.so:$(TARGET_COPY_OUT_VENDOR)/lib/liboemcrypto.so \
@@ -1001,8 +996,6 @@ PRODUCT_COPY_FILES += \
     vendor/asus/X00T/proprietary/vendor/lib/libts_detected_face_hal.so:$(TARGET_COPY_OUT_VENDOR)/lib/libts_detected_face_hal.so \
     vendor/asus/X00T/proprietary/vendor/lib/libts_face_beautify_hal.so:$(TARGET_COPY_OUT_VENDOR)/lib/libts_face_beautify_hal.so \
     vendor/asus/X00T/proprietary/vendor/lib/libvideoutils.so:$(TARGET_COPY_OUT_VENDOR)/lib/libvideoutils.so \
-    vendor/asus/X00T/proprietary/vendor/lib/libvpphvx.so:$(TARGET_COPY_OUT_VENDOR)/lib/libvpphvx.so \
-    vendor/asus/X00T/proprietary/vendor/lib/libvpplibrary.so:$(TARGET_COPY_OUT_VENDOR)/lib/libvpplibrary.so \
     vendor/asus/X00T/proprietary/vendor/lib/libvqzip.so:$(TARGET_COPY_OUT_VENDOR)/lib/libvqzip.so \
     vendor/asus/X00T/proprietary/vendor/lib/libwfdcommonutils_proprietary.so:$(TARGET_COPY_OUT_VENDOR)/lib/libwfdcommonutils_proprietary.so \
     vendor/asus/X00T/proprietary/vendor/lib/libwfdhaldsmanager.so:$(TARGET_COPY_OUT_VENDOR)/lib/libwfdhaldsmanager.so \
