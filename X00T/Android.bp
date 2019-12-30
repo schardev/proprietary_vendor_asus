@@ -198,7 +198,7 @@ android_app_import {
 	name: "TimeService",
 	owner: "asus",
 	apk: "proprietary/vendor/app/TimeService/TimeService.apk",
-	certificate: "platform",
+	presigned: true,
 	dex_preopt: {
 		enabled: false,
 	},
